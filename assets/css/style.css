@@ -1,0 +1,48 @@
+* {
+	background: url(https://images.alphacoders.com/105/105271.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+p {
+	font-size: 18px;
+	background: white;
+	opacity: .8;
+}
+#instructions {
+	background: white;
+	opacity: .8;
+}
+#random {
+	width: 80px;
+	font-size: 36px;
+	float: left;
+}
+#wl {
+	width: 250px;
+	float: left;
+}
+#clear {
+	clear: both;
+}
+#sHeading {
+	font-size: 34px;
+	font-weight: bold;
+}
+#score {
+	width: 90px;
+	height: 90px;
+	background: white;
+	opacity: .9;
+	font-size: 42px;
+}
+.crystals {
+	width: 80px;
+	height: 80px;
+} 
+.crystals:hover {
+	width: 95px;
+	height: 95px;
+}
+.crystals:active {
+	width: 86px;
+	height: 86px;
+}
